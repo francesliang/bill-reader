@@ -1,0 +1,3 @@
+[submodule "InvoiceNet"]
+	path = InvoiceNet
+	url = git@github.com:francesliang/InvoiceNet.git
