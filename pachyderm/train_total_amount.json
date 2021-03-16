@@ -18,7 +18,7 @@
             "--model_dir",
             "/pfs/out"
         ],
-        "image": "invoicenet:1.0.0"
+        "image": "xinliang/invoicenet:1.0.0"
     },
     "input": {
         "pfs": {
